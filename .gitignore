@@ -1,0 +1,20 @@
+# Ignoring dataset files
+data/*
+!data/calib/
+!data/README.md
+
+# Ignoring compiled python files
+__pycache__/
+*.pyc
+
+# Ignoring virtual environment files
+venv/
+*.egg-info
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
