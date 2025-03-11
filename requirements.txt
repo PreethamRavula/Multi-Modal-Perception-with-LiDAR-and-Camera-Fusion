@@ -1,0 +1,6 @@
+opencv-python-headless
+numpy
+matplotlib
+open3d
+torch
+torchvision
